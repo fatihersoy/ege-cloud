@@ -1,8 +1,8 @@
 {
     "database": {
-        "host": "fepostgres1.postgres.database.azure.com",
+        "host": "fepostgres.postgres.database.azure.com",
         "dbname": "postgres",
-        "user": "usrfatih@FePostgres1",
+        "user": "usrFatih@fepostgres",
         "password": "Mbn1618*",
         "ssl": "require"
     }
